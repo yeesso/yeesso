@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yessotech the official repo of Yesso Technologie
+- 👋 Hi, I’m @yessotech the official repo of Yeesso
 - 👀 I’m interested in build next modern technologies
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate with people
